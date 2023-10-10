@@ -1,0 +1,84 @@
+body{
+    background: rgb(250, 250, 250);
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+   font-family:'Raleway:wght@200 ' ;
+    margin: 10%;
+    color: rgb(238, 110, 131);
+  
+  }
+
+  .sobre{
+    font-family: 'Raleway, sem serifa';
+    font-size: 20px;
+  }
+
+.objetivos{
+    font-family: 'Raleway, sem serifa';
+    font-size: 20px;
+}
+
+.trabalho{
+    font-family: 'Raleway, sem serifa';
+    font-size: 20px;
+}
+
+.projetos{
+    font-family: 'Raleway, sem serifa';
+    font-size: 20px;
+    color:rgb(238, 110, 131)
+}
+
+.basico{
+    font-family: 'Raleway, sem serifa';
+    font-size: 20px;
+}
+  
+  h2{
+  font-family: Start Free Trial Now;
+  font-size: 25px;
+  margin-top: 10px;
+  color:rgb(238, 110, 131);
+  }
+  
+  h3{
+    font-family: Start Free Trial Now;
+  font-size: 25px;
+  margin-top: 10px;
+  color:rgb(238, 110, 131);
+
+  }
+
+  nav{
+    display: flex;
+    justify-content: center;
+  }
+  
+  a{
+    text-decoration: none;
+    color:rgb(238, 110, 131);
+  }
+  a:hover{
+    color:rgb(135, 21, 241);
+
+  }
+
+
+
+.github{
+    width: 5%;
+    padding: 20%;
+    margin-right: 20%;
+    margin: 0;
+    padding: 5px;
+}
+
+.instagram{
+    width: 5%;
+    padding: 20%;
+    margin-right: 20%;  
+    margin: 0;
+    padding: 5px;
+}
